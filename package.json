@@ -1,0 +1,19 @@
+{
+  "name": "control-de-usuarios-backend",
+  "version": "1.0.0",
+  "description": "BackEnd para APP de control de usuarios",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "Daniel Alanis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.2",
+    "nodemon": "^2.0.18"
+  }
+}
