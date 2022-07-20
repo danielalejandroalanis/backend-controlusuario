@@ -38,7 +38,7 @@
 
 **Clonar repositorio:** 
 
-> git clone https://github.com/danielalejandroalanis/backoffice-backend.git
+> git clone https://github.com/danielalejandroalanis/backend-controlusuario.git
 
 **Ejecución en consola:**
 
